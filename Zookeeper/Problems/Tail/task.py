@@ -1,0 +1,1 @@
+print(sentence[-1])
